@@ -1,10 +1,14 @@
 # DApp Farm : A Staking App
 
+DApp Farm helps stake daiTokens and earn native dap tokens as returns on investment.
+In simple terms, A fake yield farming application.
+
+ ![invest](https://github.com/Shenoy07/Staking_App/blob/main/invest.mp4)
+
 So as I am interviewing for the post of front end blockchain developer, the recruiters asked me to make a Simple Staking App using web3.js. So I took on the challenge to learn web3.js
 in the deadline that I was given and I came up with Dapp Farm.
 
-DApp Farm helps stake daiTokens and earn native dap tokens as returns on investment.
-In simple terms, A fake yield farming application.
+
 
 
 # How to Setup and run it on your Computer??
