@@ -24,5 +24,6 @@ module.exports = async function(deployer, network, accounts ){
     // be the one that we are using here(array starts from 0)
     
     await daiToken.transfer(accounts[1], '100000000000000000000')
+    await daiToken.transfer(accounts[2], '100000000000000000000')
 
 }
