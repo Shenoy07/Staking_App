@@ -43,7 +43,7 @@ As I am interviewing for the post of Front-End-Blockchain developer, the recruit
 - Initially I went through a playlist which helped me understand what contracts & abis are how we use them to interact with the web and the EVMs.
 - Then I had to plan out what will the logic I will be using in my dapp.
 - ![block diagram](https://github.com/Shenoy07/Staking_App/blob/main/src/block%20dia.PNG)
-- I followed a tutorial to understand how to write the contracts in Solana as I had never practiced that. A simple contract for TokenFarm for transactions was written.
+- I followed a tutorial to understand how to write the contracts in Solidity as I had never practiced that. A simple contract for TokenFarm for transactions was written.
 - Meanwhile, I got to know the best practices for building contracts and how and why it involves testing. I have used chai for testing and we have written the test cases for the function used in the  TokenFarm contract.
  ![test-img](https://github.com/Shenoy07/Staking_App/blob/main/src/test-img.PNG)
 - Now that we have all the contracts, we are ready to deploy them.
